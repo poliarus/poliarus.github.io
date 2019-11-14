@@ -1,1 +1,1 @@
-Portfolio page
+Static portfolio website
